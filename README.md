@@ -26,7 +26,7 @@ Intuitive and customizable controls for a personalized user experience.
 * Clone the repository:
 
   ```
-  git clone https://github.com/Tilakcoder/see.git
+  git clone https://github.com/Rashicoder/see.git
   ```
 * Create virtual Environment
 
